@@ -1,0 +1,23 @@
+
+h1 {
+    color: rgba(219, 182, 18, 0.863);    
+    border-color: rgb(158, 23, 23);     }
+button{
+    background: rgb(124, 20, 20);
+    border-color: gold;
+}
+#paragrafo-1{
+    color: darkgoldenrod;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#paragrafo-2{
+     color: black;
+     font-size: 20px;
+     font-weight: bold;
+}
+
+#botão2{
+     background: darkorange;
+}
