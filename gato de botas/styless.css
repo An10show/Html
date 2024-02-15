@@ -1,7 +1,11 @@
 
 h1 {
     color: rgba(219, 182, 18, 0.863);    
-    border-color: rgb(158, 23, 23);     }
+    border-color: rgb(158, 23, 23);   
+    text-shadow: 5px 5px 10px #ffd900ec; 
+    font-style: italic;
+    font-weight: 200;
+}
 button{
     background: rgb(124, 20, 20);
     border-color: gold;
@@ -10,6 +14,8 @@ button{
     color: darkgoldenrod;
     font-size: 20px;
     font-weight: bold;
+    font-style: italic;
+    line-height: 60px;
 }
 
 #paragrafo-2{
@@ -20,4 +26,9 @@ button{
 
 #botão2{
      background: darkorange;
+}
+
+iframe{
+       font-size: 100px;
+    
 }
